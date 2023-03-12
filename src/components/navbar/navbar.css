@@ -1,0 +1,8 @@
+nav {
+    width: 100vw;
+}
+
+.nav-content {
+    width: min(80%, 1920px);
+    margin: 0 auto;
+}

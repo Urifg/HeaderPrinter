@@ -1,0 +1,16 @@
+.route-selector {
+    width: 100%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.protocol {
+    width: 20%;
+}
+
+.route {
+    width: 80%;
+}
